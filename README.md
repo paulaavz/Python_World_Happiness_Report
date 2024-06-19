@@ -43,8 +43,6 @@ The primary data source for this analysis is the World Happiness Report 2019, so
 
 -	[World Happiness Report 2015–2019](https://www.kaggle.com/datasets/unsdsn/world-happiness)
 
--	[Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
-
 -	[World Happiness Report 2020](https://worldhappiness.report/ed/2020/#appendices-and-data)
 
 # Tools used:
